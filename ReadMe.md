@@ -1,6 +1,6 @@
 # CigPay - UPI Payment App
 
-### Debug
+#### Debug
 ```sh
 $ cd $PROJECT_ROOT
 $ npm install
@@ -8,7 +8,7 @@ $ npm start
 $ npx react-native run-android
 ```
 
-### Build APK
+#### Build APK
 ```sh
 $ cd $PROJECT_ROOT
 $ npm install
